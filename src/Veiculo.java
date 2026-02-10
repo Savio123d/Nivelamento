@@ -4,7 +4,7 @@ public class Veiculo {
 
     String Modelo;
     String placa;
-    Date anodFB;
+    String anodFB;
     Float km;
 
 }
