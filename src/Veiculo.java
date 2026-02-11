@@ -1,10 +1,10 @@
-import java.util.Date;
-
 public class Veiculo {
 
-    String Modelo;
+    String modelo;
     String placa;
     String anodFB;
     Float km;
+    Float preco;
+
 
 }
